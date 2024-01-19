@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=@leon-murphy-tech&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%" align="center">
-    I'm a senior fullstack developer with almost a decade of experience in software development, specializing in web technologies.
-</p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">I specialize in using React for frontend development and Golang for backend.</p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">I am passionate about creating robust and efficient solutions to meet clients' needs.</p>
-<br/>
-<br/><div align="center">
+
+<div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <p align="center">
     <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" /></p>
+
+<br /><p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%" align="center">
+    I'm a Senior FullStack Developer with almost 10 years of experience in Web Development.
+</p>
+<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">I excel at using React for front-end development and Python for back-end.</p>
+<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">My focus is on creating resilient and effective solutions to meet our clients' needs.</p>
 
 <br/><div align="center">
 <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
@@ -89,30 +87,4 @@
 <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 
 </div> 
-<div align="center" style="witdh:100%"> 
-<h3>
- :hammer_and_wrench: Prefered languages and tools
-</h3><br/><br/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
-</div>
-
-<br/><div align="center">
-<img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
-
-</div>

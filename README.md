@@ -72,18 +72,6 @@
 </div>
 
 <div align="center" style="witdh:100%"> 
-<br/><h3> 👱‍♀️: Communities</h3><br/>
-
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
-</div>
-
-<br/><div align="center">
 <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 
 </div> 
